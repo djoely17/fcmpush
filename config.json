@@ -1,0 +1,19 @@
+{
+  "redisBkp": {
+    "port": 6379,
+    "host": "10.126.96.81",
+    "password": "ayamGorengSausKecap"
+  },
+  "redis": {
+    "no_ready_check": true,
+    "password": "ayamGorengSausKecap",
+    "auth_pass": "ayamGorengSausKecap",
+    "port": 6379,
+    "host": "10.126.96.81"
+  },
+  "worker": 4,
+  "proxy": {
+    "host": "10.126.218.130",
+    "port": "3128"
+  }
+}
